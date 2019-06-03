@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GOT Houses</string>
+    <string name="title_activity_house_detail">HouseDetailActivity</string>
+</resources>
